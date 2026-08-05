@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "organization": "apostille-me",
+  "tracking_issue": "DEN-1951",
+  "repositories": [
+    {
+      "name": "apostille-me-libs",
+      "ref": "main"
+    },
+    {
+      "name": "apostille-me-clients",
+      "ref": "main"
+    },
+    {
+      "name": "apostille-me-infra",
+      "ref": "main"
+    },
+    {
+      "name": "apostille-me.github.io",
+      "ref": "main"
+    }
+  ]
+}
